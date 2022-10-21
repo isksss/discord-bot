@@ -1,0 +1,4 @@
+## rename this file. `config.yml`
+url: ""
+name: "sample-bot"
+message: "こんにちは 私はサンプルボットです"
